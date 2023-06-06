@@ -1,0 +1,13 @@
+package May;
+
+public class Program1 {
+	
+	public static void main(String[] args) {
+		int no = 6;
+		String name;
+		name = "surya";
+		System.out.println("number is "+ no);
+		System.out.println("name is "+ name);
+	}
+
+}
